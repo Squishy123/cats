@@ -44,6 +44,11 @@ p {
   text-align: center;
 }
 
+.thumbnail {
+  width: 100px;
+  height: 100px;
+}
+
 .unselectable {
   -webkit-user-select: none;
   /* Safari */
